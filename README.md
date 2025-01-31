@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving critical thinking problems 
 - 🌱 I’m currently learning c++ and DSA 
 - 💞️ ................................
-- 📫 Here is my e mail id asir9637@gmail.com
+- 📫 Here is my e mail id anandofficial2027@gmail.com
 - 😄 Pronouns: Nothing
 - ⚡ Fun fact: very lazy guy
 
